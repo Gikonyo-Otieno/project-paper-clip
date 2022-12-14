@@ -1,0 +1,42 @@
+body {
+    background-color: rgba(7, 10, 28, 1);
+    background-image: url(./images/pexels-mikky-k-625644.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    
+    
+  }
+h1{
+    color: rgb(241, 113, 214);
+    text-shadow:
+    0.02em 0 black,
+    0 0.02em black,
+    -0.02em 0 black,
+    0 -0.02em black;
+}
+p{
+    color: rgb(241, 113, 214);
+    text-shadow:
+    0.02em 0 black,
+    0 0.02em black,
+    -0.02em 0 black,
+    0 -0.02em black;
+}
+#btn{
+    color: white;
+    background-color: rgb(241, 113, 214);
+}
+
+#hero{
+    background-color: rgba(7, 10, 28, 1);
+    opacity: 80%;
+}
+header{
+    background-color: rgba(7, 10, 28, 1);
+}
+#logo {
+  float: left!important;
+  padding-bottom: 2em;
+  
+}
