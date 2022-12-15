@@ -15,12 +15,15 @@ document.addEventListener("DOMContentLoaded", () => {
           <li>${event.date}</li>
           <li>${event.time}</li>
           <li>${event.venue}</li>
+          <li>${event.description}</li>
         </ul>
         <button type="button" class="w-100 btn btn-lg btn-primary" id="btn">Get tickets</button>`
 
       //Add event card to DOM
         document.querySelector("#hero").appendChild(card);
-    //     card.addEventListener("click", function () {
+        card.addEventListener("click", function () {
+            alert("The event card has been clicked")
+        })
 
      } 
      
@@ -48,4 +51,24 @@ document.addEventListener("DOMContentLoaded", () => {
      }
      initialize();
 
+
+    //  Adding event listeners
+    let login = document.querySelector('#login')
+    login.addEventListener('click',  () => {
+        alert("Services are currently unavailable. Please try again later.")
+    })
+    let form = document.querySelector('#home_section')
+    form.addEventListener('submit', () => {
+        event.preventDefault()
+        alert("Unable to submit, please try later.")
+    })
+    let signUp = document.querySelector('#signup')
+    signUp.addEventListener('click',  () => {
+        alert("Services are currently unavailable. Please try again later.")
+    })
+    let input = document.querySelector('#input')
+    input.addEventListener('click',  () => {
+        alert("You are being tracked.")
+    })
+    
 });     

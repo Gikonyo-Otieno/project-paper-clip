@@ -8,8 +8,12 @@ body {
     
   }
 .card{
-    padding: 2px;
+    border: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
     
+
 }
 #h1{
     color: rgb(241, 113, 214);
@@ -72,4 +76,13 @@ header{
   float: left!important;
   padding-bottom: 2em;
   
+}
+#submit{
+    background-color: rgb(241, 113, 214)
+}
+label{
+    color: beige;
+}
+.form-text{
+    color: beige;
 }
