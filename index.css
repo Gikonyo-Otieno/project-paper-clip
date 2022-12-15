@@ -7,8 +7,36 @@ body {
     
     
   }
+.card{
+    padding: 2px;
+    
+}
 #h1{
     color: rgb(241, 113, 214);
+    text-shadow:
+    0.02em 0 black,
+    0 0.02em black,
+    -0.02em 0 black,
+    0 -0.02em black;
+}
+.card-title{
+    color: rgb(241, 113, 214);
+    text-shadow:
+    0.02em 0 black,
+    0 0.02em black,
+    -0.02em 0 black,
+    0 -0.02em black;
+}
+.my-0{
+    color: rgb(241, 238, 241);
+    text-shadow:
+    0.02em 0 black,
+    0 0.02em black,
+    -0.02em 0 black,
+    0 -0.02em black;
+}
+.list-unstyled{
+    color: rgb(241, 238, 241);
     text-shadow:
     0.02em 0 black,
     0 0.02em black,
@@ -28,9 +56,14 @@ p{
     background-color: rgb(241, 113, 214);
 }
 
-#hero{
+#middle{
     background-color: rgba(7, 10, 28, 1);
     opacity: 80%;
+}
+.card{
+    background-color: rgba(7, 10, 28, 1);
+    opacity: 80%;
+    
 }
 header{
     background-color: rgba(7, 10, 28, 1);
