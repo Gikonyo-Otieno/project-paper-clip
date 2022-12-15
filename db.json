@@ -1,0 +1,45 @@
+{
+  "eventData": [
+    {
+        "name": "Jameson Connects Kenya",
+        "date":"Sat, 17 Dec 2022",
+        "venue": "Tatu City",
+        "time": "06:00 PM - 11:59 PM",
+        "price1": "2500/=",
+        "price2": "4000/="
+      },
+    {
+        "name": "Art In The Wild",
+        "date":"Sun, 18 Dec 2022",
+        "venue": "KWS HQ, Langata Road",
+        "time": "10:00 AM - 06:00 PM",
+        "price1": "1000/=",
+        "price2": "1500/=" 
+    }, 
+    {
+        "name": "Sol Fest",
+        "date":"Sat, 17 Dec 2022",
+        "venue": "KICC",
+        "time": "12:00 PM till late",
+        "price1": "3500/=",
+        "price2": "10000/="  
+    }, 
+    {
+        "name": "Because You Said So",
+        "date":"Fri, 16 Dec 2022",
+        "venue": "Braeburn Theater",
+        "time": "07:00 PM - 11:59 PM",
+        "price1": "2500/=",
+        "price2": "3000/=" 
+    },
+    {
+        "name": "Kenya Fashion Awards",
+        "date":"Sat, 17 Dec 2022",
+        "venue": "The Hub, Karen",
+        "time": "06:30 PM - 10:30 PM",
+        "price1": "3000/=",
+        "price2": "7000/=" 
+    }
+  ]
+  
+}
