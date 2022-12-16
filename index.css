@@ -63,10 +63,12 @@ p{
 #middle{
     background-color: rgba(7, 10, 28, 1);
     opacity: 80%;
+    
 }
 .card{
     background-color: rgba(7, 10, 28, 1);
     opacity: 80%;
+    max-width: 960px;
     
 }
 header{
@@ -85,4 +87,7 @@ label{
 }
 .form-text{
     color: beige;
+}
+#home_section{
+    background-color: rgba(7, 10, 28, 1);
 }
