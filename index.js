@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
       //Add event card to DOM
         document.querySelector("#hero").appendChild(card);
         card.addEventListener("click", function () {
-            alert("The event card has been clicked")
+            alert("Ticket request received successfully")
         })
 
      } 
