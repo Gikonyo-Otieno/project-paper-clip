@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
      //Initial Render
      function initialize(){
         getAllEvents();
-        console.log('hey');
+        
      }
      initialize();
 
