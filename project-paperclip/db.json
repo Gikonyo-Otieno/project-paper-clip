@@ -1,0 +1,55 @@
+{
+  "eventData": [
+    {
+        "id": "1",
+        "name": "Jameson Connects Kenya",
+        "date":"Sat, 17 Dec 2022",
+        "venue": "Tatu City",
+        "time": "06:00 PM - 11:59 PM",
+        "price1": "2500/=",
+        "price2": "4000/=",
+        "description": "Jameson Whiskey is bringing you another edition of Jameson Connects Kenya. Get ready for the experience of the year with our line up of local and international Djs, triple distilled whiskey, food, games and unforgettable moments with your mates!"
+      },
+    {
+        "id": "2",
+        "name": "Art In The Wild",
+        "date":"Sun, 18 Dec 2022",
+        "venue": "KWS HQ, Langata Road",
+        "time": "10:00 AM - 06:00 PM",
+        "price1": "1000/=",
+        "price2": "1500/=",
+        "description": "THEME: Inspiring Art, Enhancing Conservation, Preserving Culture"
+    }, 
+    {
+        "id": "3",
+        "name": "Sol Fest",
+        "date":"Sat, 17 Dec 2022",
+        "venue": "KICC",
+        "time": "12:00 PM till late",
+        "price1": "3500/=",
+        "price2": "10000/=",
+        "description": "EARLY BIRD. KSH 2,500.00 ; REGULAR. KSH 3,500.00 ; REGULAR COUPLE. KSH 5,000.00 ; GOLDEN CIRCLE. KSH 4,500.00 ; VIP. KSH 10, 000 ; VIP COUPLES. KSH 17,500" 
+    }, 
+    {
+        "id": "4",
+        "name": "Because You Said So",
+        "date":"Fri, 16 Dec 2022",
+        "venue": "Braeburn Theater",
+        "time": "07:00 PM - 11:59 PM",
+        "price1": "2500/=",
+        "price2": "3000/=",
+        "description": "Different colours one people! Celebrating diversity. Safe to say, get your tickets today"
+    },
+    { 
+        "id": "5",
+        "name": "Kenya Fashion Awards",
+        "date":"Sat, 17 Dec 2022",
+        "venue": "The Hub, Karen",
+        "time": "06:30 PM - 10:30 PM",
+        "price1": "3000/=",
+        "price2": "7000/=",
+        "description": "The Kenya Fashion Awards 2022 Event will be held on 3rd of December at The Hub Karen from 6.30 PM to 10.30 pm. "
+    }
+  ]
+  
+}
